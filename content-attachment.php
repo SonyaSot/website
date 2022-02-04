@@ -1,7 +1,7 @@
 <?php
 /**
  * Template part for displaying attachment page
- *
+ *         Часть шаблона для отображения страницы вложения
  * @link    https://codex.wordpress.org/Template_Hierarchy
  *
  * @package Shapely
